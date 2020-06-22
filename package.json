@@ -1,0 +1,22 @@
+{
+  "name": "web_dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiila/aiila.github.io.git"
+  },
+  "dependencies": {
+    "server":"^1.0.29"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiila/aiila.github.io/issues"
+  },
+  "homepage": "https://github.com/aiila/aiila.github.io#readme"
+}
