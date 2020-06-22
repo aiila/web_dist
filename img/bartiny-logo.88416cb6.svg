@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340.903" height="41.104" viewBox="0 0 340.903 41.104">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-22 9)">
+    <g id="Layer_13" data-name="Layer 13" transform="translate(22 -9)">
+      <g id="SPLINE" transform="translate(248.182 21.051)">
+        <path id="Path_1808" data-name="Path 1808" d="M500,62.344h10.92V56.388L500,42.41Z" transform="translate(-500 -42.41)" fill="#009fe3"/>
+      </g>
+      <g id="SPLINE-2" data-name="SPLINE" transform="translate(276.063 0.119)">
+        <path id="Path_1809" data-name="Path 1809" d="M556.17.24h10.965V21.172L556.17,7.219Z" transform="translate(-556.17 -0.24)" fill="#009fe3"/>
+      </g>
+      <path id="Path_1810" data-name="Path 1810" d="M0,.24H24.515c7.376.611,12.409,6.036,12.26,11.238-.139,4.72-4.512,7.768-5.108,8.175a11.535,11.535,0,0,1,7.153,10.215c0,5.544-4.765,10.716-11.238,11.238H0V32.931H23.493a4.085,4.085,0,0,0,0-8.17H0V16.585H21.453a4.085,4.085,0,0,0,0-8.17H0Z" transform="translate(0 -0.121)" fill="#fff"/>
+      <g id="SPLINE-3" data-name="SPLINE" transform="translate(51.825 0.119)">
+        <path id="Path_1811" data-name="Path 1811" d="M104.41,41.106Q112.883,20.675,121.351.24h11.957l17.944,40.866H139.289L127.332,11.2l-11.962,29.9Z" transform="translate(-104.41 -0.24)" fill="#fff"/>
+      </g>
+      <g id="SPLINE-4" data-name="SPLINE" transform="translate(113.613 0.119)">
+        <path id="Path_1812" data-name="Path 1812" d="M228.89.24h19.934c8.592.417,15.273,6.686,15.948,13.953.5,5.311-2.268,10.632-6.979,13.953q3.971,6.453,7.972,12.96H253.807l-6.994-10.965h-6.949V41.106H228.89V21.172h20.932a6.16,6.16,0,0,0-1.985-11.962H228.89Z" transform="translate(-228.89 -0.24)" fill="#fff"/>
+      </g>
+      <g id="SPLINE-5" data-name="SPLINE" transform="translate(163.443 0.119)">
+        <path id="Path_1813" data-name="Path 1813" d="M329.28.24h36.875V9.209H353.2v31.9H342.24V9.209H329.28Z" transform="translate(-329.28 -0.24)" fill="#fff"/>
+      </g>
+      <path id="Path_1814" data-name="Path 1814" d="M500,.24h8.935q10.607,12.985,21.592,26.049,4.16,4.964,8.319,9.833v4.964h-9.967L500,6.221Z" transform="translate(-251.818 -0.121)" fill="#fff"/>
+      <path id="Path_1815" data-name="Path 1815" d="M628.824,26.541V41.1h-9.51V26.421L603.4,0h10.1l10.98,18.261L635.465,0H644.8Z" transform="translate(-303.894)" fill="#fff"/>
+      <rect id="Rectangle_1669" data-name="Rectangle 1669" width="10.965" height="40.861" transform="translate(216.266 0.119)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
